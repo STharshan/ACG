@@ -5,22 +5,17 @@ import "aos/dist/aos.css";
 const testimonials = [
   {
     quote:
-      "i came came for ambient lighting to get done on my ‘13 fiesta, thought it would be tricky to get the lights fitted into the panels as the gaps were small, nonetheless came out really well and he’s did a solid job, looks natural and was done in efficient time, for the price too can’t go wrong. i reccomend highly",
-    author: "Shabbir miah",
+      "I rang Tom at very short notice after a puncture in my front left tyre just before a trip away. He was extremely helpful and my car was in the garage, on the lift and the issue fixed within the hour.",
+    author: "Marc Williams",
   },
   {
     quote:
-      "100% recommend if your wanting work done to your car, done an EGR delete + stage 1 eco map, service and works were on point 👌",
+      "Tom and his colleague were both incredibly welcome and offered unmatched and efficient service at a fraction of the cost I'd been quoted previously for similar jobs.",
     author: "Aman Javid",
   },
   {
-    quote: "Lovely work. Im very hapoy with the work. Wicked job. Had stage 1 engine remap and starlights on my sq7. Something you can see on the page .",
+    quote: "ACG Autocentre are also sponsors of a local non-league football team, in which I have an interest, and it's great to see the mutual support between two, Nottingham-based businesses. Would have no hesitancy in visiting again and highly recommend!",
     author: "Yadger",
-  },
-  {
-    quote:
-      "Had My Car Stage 1 Remapped Alongside a Gearbox Map With Crackles Great Service And Very Happy With Results I would Highly Recommend 👌👍",
-    author: "Exotix YT",
   },
 ];
 
