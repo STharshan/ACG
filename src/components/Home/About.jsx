@@ -91,6 +91,11 @@ const AboutSection = () => {
 
             {/* Bottom fixed half-border */}
             <div className="absolute bottom-0 left-0 w-full h-[15px] bg-gradient-to-r from-transparent to-[var(--color-rating)]"></div>
+           <img
+            src="/a2.webp"
+            alt="Detail work"
+            className="absolute bottom-5 -left-5 w-32 md:w-30 h-30 z-20"
+          />
           </div>
         </div>
       </div>
